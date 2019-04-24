@@ -1,0 +1,1618 @@
+[
+	{
+		"time": 0,
+		"values": {
+			"lightIntensity": 0,
+			"rpm": 0,
+			"temperature": 25
+		}
+	},
+	{
+		"time": 0,
+		"values": {
+			"lightIntensity": 0,
+			"rpm": 0,
+			"temperature": 25
+		}
+	},
+	{
+		"time": 0.05,
+		"values": {
+			"lightIntensity": 0,
+			"rpm": 0,
+			"temperature": 25
+		}
+	},
+	{
+		"time": 0.1,
+		"values": {
+			"lightIntensity": 0.0002747,
+			"rpm": 0,
+			"temperature": 25
+		}
+	},
+	{
+		"time": 0.15,
+		"values": {
+			"lightIntensity": 19.673574,
+			"rpm": 0,
+			"temperature": 25.000002
+		}
+	},
+	{
+		"time": 0.2,
+		"values": {
+			"lightIntensity": 31.606026,
+			"rpm": 0,
+			"temperature": 25.000006
+		}
+	},
+	{
+		"time": 0.25,
+		"values": {
+			"lightIntensity": 38.843489,
+			"rpm": 0,
+			"temperature": 25.000014
+		}
+	},
+	{
+		"time": 0.3,
+		"values": {
+			"lightIntensity": 43.233201,
+			"rpm": 0,
+			"temperature": 25.000025
+		}
+	},
+	{
+		"time": 0.35,
+		"values": {
+			"lightIntensity": 45.895987,
+			"rpm": 0,
+			"temperature": 25.000039
+		}
+	},
+	{
+		"time": 0.4,
+		"values": {
+			"lightIntensity": 47.510986,
+			"rpm": 0,
+			"temperature": 25.000056
+		}
+	},
+	{
+		"time": 0.45,
+		"values": {
+			"lightIntensity": 48.490307,
+			"rpm": 0,
+			"temperature": 25.000076
+		}
+	},
+	{
+		"time": 0.5,
+		"values": {
+			"lightIntensity": 49.084356,
+			"rpm": 0,
+			"temperature": 25.000099
+		}
+	},
+	{
+		"time": 0.55,
+		"values": {
+			"lightIntensity": 49.444673,
+			"rpm": 0,
+			"temperature": 25.000125
+		}
+	},
+	{
+		"time": 0.6,
+		"values": {
+			"lightIntensity": 49.663199,
+			"rpm": 0,
+			"temperature": 25.000154
+		}
+	},
+	{
+		"time": 0.65,
+		"values": {
+			"lightIntensity": 49.795737,
+			"rpm": 0,
+			"temperature": 25.000186
+		}
+	},
+	{
+		"time": 0.7,
+		"values": {
+			"lightIntensity": 49.876124,
+			"rpm": 0,
+			"temperature": 25.00022
+		}
+	},
+	{
+		"time": 0.75,
+		"values": {
+			"lightIntensity": 49.924896,
+			"rpm": 0,
+			"temperature": 25.000258
+		}
+	},
+	{
+		"time": 0.8,
+		"values": {
+			"lightIntensity": 49.954497,
+			"rpm": 0,
+			"temperature": 25.000299
+		}
+	},
+	{
+		"time": 0.85,
+		"values": {
+			"lightIntensity": 49.97244,
+			"rpm": 0,
+			"temperature": 25.000343
+		}
+	},
+	{
+		"time": 0.9,
+		"values": {
+			"lightIntensity": 49.98331,
+			"rpm": 0,
+			"temperature": 25.000389
+		}
+	},
+	{
+		"time": 0.95,
+		"values": {
+			"lightIntensity": 49.98989,
+			"rpm": 0,
+			"temperature": 25.000439
+		}
+	},
+	{
+		"time": 1,
+		"values": {
+			"lightIntensity": 49.993875,
+			"rpm": 0.001034,
+			"temperature": 25.000491
+		}
+	},
+	{
+		"time": 1.05,
+		"values": {
+			"lightIntensity": 49.996286,
+			"rpm": 85.349728,
+			"temperature": 25.000546
+		}
+	},
+	{
+		"time": 1.1,
+		"values": {
+			"lightIntensity": 49.997749,
+			"rpm": 166.53657,
+			"temperature": 25.000604
+		}
+	},
+	{
+		"time": 1.15,
+		"values": {
+			"lightIntensity": 49.998636,
+			"rpm": 243.76352,
+			"temperature": 25.000665
+		}
+	},
+	{
+		"time": 1.2,
+		"values": {
+			"lightIntensity": 49.999174,
+			"rpm": 317.22416,
+			"temperature": 25.000729
+		}
+	},
+	{
+		"time": 1.25,
+		"values": {
+			"lightIntensity": 49.9995,
+			"rpm": 387.10243,
+			"temperature": 25.000795
+		}
+	},
+	{
+		"time": 1.3,
+		"values": {
+			"lightIntensity": 49.999697,
+			"rpm": 453.57234,
+			"temperature": 25.000864
+		}
+	},
+	{
+		"time": 1.35,
+		"values": {
+			"lightIntensity": 49.999816,
+			"rpm": 516.80023,
+			"temperature": 25.000936
+		}
+	},
+	{
+		"time": 1.4,
+		"values": {
+			"lightIntensity": 49.999889,
+			"rpm": 576.9443,
+			"temperature": 25.001011
+		}
+	},
+	{
+		"time": 1.45,
+		"values": {
+			"lightIntensity": 49.999933,
+			"rpm": 634.15502,
+			"temperature": 25.001088
+		}
+	},
+	{
+		"time": 1.5,
+		"values": {
+			"lightIntensity": 49.999959,
+			"rpm": 688.57522,
+			"temperature": 25.001168
+		}
+	},
+	{
+		"time": 1.55,
+		"values": {
+			"lightIntensity": 49.999975,
+			"rpm": 740.34123,
+			"temperature": 25.001251
+		}
+	},
+	{
+		"time": 1.6,
+		"values": {
+			"lightIntensity": 49.999985,
+			"rpm": 789.58214,
+			"temperature": 25.001337
+		}
+	},
+	{
+		"time": 1.65,
+		"values": {
+			"lightIntensity": 49.999991,
+			"rpm": 836.42137,
+			"temperature": 25.001425
+		}
+	},
+	{
+		"time": 1.7,
+		"values": {
+			"lightIntensity": 49.999995,
+			"rpm": 880.9761,
+			"temperature": 25.001516
+		}
+	},
+	{
+		"time": 1.75,
+		"values": {
+			"lightIntensity": 49.999997,
+			"rpm": 923.35747,
+			"temperature": 25.00161
+		}
+	},
+	{
+		"time": 1.8,
+		"values": {
+			"lightIntensity": 49.999998,
+			"rpm": 963.67179,
+			"temperature": 25.001706
+		}
+	},
+	{
+		"time": 1.85,
+		"values": {
+			"lightIntensity": 49.999999,
+			"rpm": 1002.0198,
+			"temperature": 25.001805
+		}
+	},
+	{
+		"time": 1.9,
+		"values": {
+			"lightIntensity": 49.999999,
+			"rpm": 1038.4975,
+			"temperature": 25.001906
+		}
+	},
+	{
+		"time": 1.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1073.1961,
+			"temperature": 25.00201
+		}
+	},
+	{
+		"time": 2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1106.2024,
+			"temperature": 25.002117
+		}
+	},
+	{
+		"time": 2.05,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1137.599,
+			"temperature": 25.002226
+		}
+	},
+	{
+		"time": 2.1,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1167.4643,
+			"temperature": 25.002337
+		}
+	},
+	{
+		"time": 2.15,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1195.873,
+			"temperature": 25.002452
+		}
+	},
+	{
+		"time": 2.2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1222.896,
+			"temperature": 25.002569
+		}
+	},
+	{
+		"time": 2.25,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1248.601,
+			"temperature": 25.002688
+		}
+	},
+	{
+		"time": 2.3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1273.0524,
+			"temperature": 25.00281
+		}
+	},
+	{
+		"time": 2.35,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1296.3112,
+			"temperature": 25.002934
+		}
+	},
+	{
+		"time": 2.4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1318.4356,
+			"temperature": 25.003061
+		}
+	},
+	{
+		"time": 2.45,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1339.4811,
+			"temperature": 25.00319
+		}
+	},
+	{
+		"time": 2.5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1359.5001,
+			"temperature": 25.003322
+		}
+	},
+	{
+		"time": 2.55,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1378.5428,
+			"temperature": 25.003456
+		}
+	},
+	{
+		"time": 2.6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1396.6568,
+			"temperature": 25.003593
+		}
+	},
+	{
+		"time": 2.65,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1413.8873,
+			"temperature": 25.003732
+		}
+	},
+	{
+		"time": 2.7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1430.2774,
+			"temperature": 25.003873
+		}
+	},
+	{
+		"time": 2.75,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1445.8681,
+			"temperature": 25.004017
+		}
+	},
+	{
+		"time": 2.8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1460.6985,
+			"temperature": 25.004163
+		}
+	},
+	{
+		"time": 2.85,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1474.8055,
+			"temperature": 25.004312
+		}
+	},
+	{
+		"time": 2.9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1488.2244,
+			"temperature": 25.004462
+		}
+	},
+	{
+		"time": 2.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1500.9889,
+			"temperature": 25.004616
+		}
+	},
+	{
+		"time": 3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1513.1308,
+			"temperature": 25.004771
+		}
+	},
+	{
+		"time": 3.05,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1524.6806,
+			"temperature": 25.004929
+		}
+	},
+	{
+		"time": 3.1,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1535.6671,
+			"temperature": 25.005089
+		}
+	},
+	{
+		"time": 3.15,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1546.1178,
+			"temperature": 25.005252
+		}
+	},
+	{
+		"time": 3.2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1556.0589,
+			"temperature": 25.005417
+		}
+	},
+	{
+		"time": 3.25,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1565.5151,
+			"temperature": 25.005584
+		}
+	},
+	{
+		"time": 3.3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1574.5101,
+			"temperature": 25.005753
+		}
+	},
+	{
+		"time": 3.35,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1583.0665,
+			"temperature": 25.005925
+		}
+	},
+	{
+		"time": 3.4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1591.2055,
+			"temperature": 25.006099
+		}
+	},
+	{
+		"time": 3.45,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1598.9477,
+			"temperature": 25.006275
+		}
+	},
+	{
+		"time": 3.5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1606.3123,
+			"temperature": 25.006453
+		}
+	},
+	{
+		"time": 3.55,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1613.3184,
+			"temperature": 25.006633
+		}
+	},
+	{
+		"time": 3.6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1619.9828,
+			"temperature": 25.006816
+		}
+	},
+	{
+		"time": 3.65,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1626.3223,
+			"temperature": 25.007001
+		}
+	},
+	{
+		"time": 3.7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1632.3525,
+			"temperature": 25.007188
+		}
+	},
+	{
+		"time": 3.75,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1638.0887,
+			"temperature": 25.007377
+		}
+	},
+	{
+		"time": 3.8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1643.5452,
+			"temperature": 25.007568
+		}
+	},
+	{
+		"time": 3.85,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1648.7355,
+			"temperature": 25.007762
+		}
+	},
+	{
+		"time": 3.9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1653.6728,
+			"temperature": 25.007957
+		}
+	},
+	{
+		"time": 3.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1658.3692,
+			"temperature": 25.008155
+		}
+	},
+	{
+		"time": 4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1662.8367,
+			"temperature": 25.008354
+		}
+	},
+	{
+		"time": 4.05,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1667.0863,
+			"temperature": 25.008556
+		}
+	},
+	{
+		"time": 4.1,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1671.1287,
+			"temperature": 25.00876
+		}
+	},
+	{
+		"time": 4.15,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1674.9739,
+			"temperature": 25.008966
+		}
+	},
+	{
+		"time": 4.2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1678.6316,
+			"temperature": 25.009174
+		}
+	},
+	{
+		"time": 4.25,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1682.111,
+			"temperature": 25.009384
+		}
+	},
+	{
+		"time": 4.3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1685.4207,
+			"temperature": 25.009597
+		}
+	},
+	{
+		"time": 4.35,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1688.569,
+			"temperature": 25.009811
+		}
+	},
+	{
+		"time": 4.4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1691.5637,
+			"temperature": 25.010027
+		}
+	},
+	{
+		"time": 4.45,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1694.4125,
+			"temperature": 25.010245
+		}
+	},
+	{
+		"time": 4.5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1697.1223,
+			"temperature": 25.010465
+		}
+	},
+	{
+		"time": 4.55,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1699.7,
+			"temperature": 25.010688
+		}
+	},
+	{
+		"time": 4.6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1702.152,
+			"temperature": 25.010912
+		}
+	},
+	{
+		"time": 4.65,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1704.4845,
+			"temperature": 25.011138
+		}
+	},
+	{
+		"time": 4.7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1706.7032,
+			"temperature": 25.011366
+		}
+	},
+	{
+		"time": 4.75,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1708.8137,
+			"temperature": 25.011596
+		}
+	},
+	{
+		"time": 4.8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1710.8213,
+			"temperature": 25.011828
+		}
+	},
+	{
+		"time": 4.85,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1712.7311,
+			"temperature": 25.012062
+		}
+	},
+	{
+		"time": 4.9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1714.5477,
+			"temperature": 25.012297
+		}
+	},
+	{
+		"time": 4.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1716.2757,
+			"temperature": 25.012535
+		}
+	},
+	{
+		"time": 5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1717.9195,
+			"temperature": 25.012775
+		}
+	},
+	{
+		"time": 5.05,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1719.4832,
+			"temperature": 25.013016
+		}
+	},
+	{
+		"time": 5.1,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1720.9706,
+			"temperature": 25.01326
+		}
+	},
+	{
+		"time": 5.15,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1722.3855,
+			"temperature": 25.013505
+		}
+	},
+	{
+		"time": 5.2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1723.7314,
+			"temperature": 25.013752
+		}
+	},
+	{
+		"time": 5.25,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1725.0117,
+			"temperature": 25.014001
+		}
+	},
+	{
+		"time": 5.3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1726.2296,
+			"temperature": 25.014252
+		}
+	},
+	{
+		"time": 5.35,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1727.3881,
+			"temperature": 25.014504
+		}
+	},
+	{
+		"time": 5.4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1728.4901,
+			"temperature": 25.014759
+		}
+	},
+	{
+		"time": 5.45,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1729.5384,
+			"temperature": 25.015015
+		}
+	},
+	{
+		"time": 5.5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1730.5356,
+			"temperature": 25.015273
+		}
+	},
+	{
+		"time": 5.55,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1731.4841,
+			"temperature": 25.015532
+		}
+	},
+	{
+		"time": 5.6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1732.3865,
+			"temperature": 25.015794
+		}
+	},
+	{
+		"time": 5.65,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1733.2448,
+			"temperature": 25.016057
+		}
+	},
+	{
+		"time": 5.7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1734.0613,
+			"temperature": 25.016323
+		}
+	},
+	{
+		"time": 5.75,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1734.838,
+			"temperature": 25.016589
+		}
+	},
+	{
+		"time": 5.8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1735.5769,
+			"temperature": 25.016858
+		}
+	},
+	{
+		"time": 5.85,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1736.2797,
+			"temperature": 25.017128
+		}
+	},
+	{
+		"time": 5.9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1736.9483,
+			"temperature": 25.0174
+		}
+	},
+	{
+		"time": 5.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1737.5842,
+			"temperature": 25.017674
+		}
+	},
+	{
+		"time": 6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1738.1892,
+			"temperature": 25.01795
+		}
+	},
+	{
+		"time": 6.05,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1738.7647,
+			"temperature": 25.018227
+		}
+	},
+	{
+		"time": 6.1,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1739.3121,
+			"temperature": 25.018506
+		}
+	},
+	{
+		"time": 6.15,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1739.8329,
+			"temperature": 25.018786
+		}
+	},
+	{
+		"time": 6.2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1740.3283,
+			"temperature": 25.019068
+		}
+	},
+	{
+		"time": 6.25,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1740.7995,
+			"temperature": 25.019352
+		}
+	},
+	{
+		"time": 6.3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1741.2477,
+			"temperature": 25.019638
+		}
+	},
+	{
+		"time": 6.35,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1741.6741,
+			"temperature": 25.019925
+		}
+	},
+	{
+		"time": 6.4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1742.0798,
+			"temperature": 25.020214
+		}
+	},
+	{
+		"time": 6.45,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1742.4656,
+			"temperature": 25.020504
+		}
+	},
+	{
+		"time": 6.5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1742.8327,
+			"temperature": 25.020796
+		}
+	},
+	{
+		"time": 6.55,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1743.1819,
+			"temperature": 25.02109
+		}
+	},
+	{
+		"time": 6.6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1743.514,
+			"temperature": 25.021385
+		}
+	},
+	{
+		"time": 6.65,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1743.83,
+			"temperature": 25.021682
+		}
+	},
+	{
+		"time": 6.7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1744.1305,
+			"temperature": 25.021981
+		}
+	},
+	{
+		"time": 6.75,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1744.4165,
+			"temperature": 25.022281
+		}
+	},
+	{
+		"time": 6.8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1744.6884,
+			"temperature": 25.022582
+		}
+	},
+	{
+		"time": 6.85,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1744.9472,
+			"temperature": 25.022885
+		}
+	},
+	{
+		"time": 6.9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1745.1933,
+			"temperature": 25.02319
+		}
+	},
+	{
+		"time": 6.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1745.4274,
+			"temperature": 25.023496
+		}
+	},
+	{
+		"time": 7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1745.6502,
+			"temperature": 25.023804
+		}
+	},
+	{
+		"time": 7.05,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1745.8621,
+			"temperature": 25.024114
+		}
+	},
+	{
+		"time": 7.1,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1746.0636,
+			"temperature": 25.024424
+		}
+	},
+	{
+		"time": 7.15,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1746.2553,
+			"temperature": 25.024737
+		}
+	},
+	{
+		"time": 7.2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1746.4377,
+			"temperature": 25.025051
+		}
+	},
+	{
+		"time": 7.25,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1746.6112,
+			"temperature": 25.025366
+		}
+	},
+	{
+		"time": 7.3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1746.7763,
+			"temperature": 25.025683
+		}
+	},
+	{
+		"time": 7.35,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1746.9333,
+			"temperature": 25.026001
+		}
+	},
+	{
+		"time": 7.4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1747.0827,
+			"temperature": 25.026321
+		}
+	},
+	{
+		"time": 7.45,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1747.2247,
+			"temperature": 25.026642
+		}
+	},
+	{
+		"time": 7.5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1747.3599,
+			"temperature": 25.026965
+		}
+	},
+	{
+		"time": 7.55,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1747.4885,
+			"temperature": 25.027289
+		}
+	},
+	{
+		"time": 7.6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1747.6108,
+			"temperature": 25.027615
+		}
+	},
+	{
+		"time": 7.65,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1747.7271,
+			"temperature": 25.027942
+		}
+	},
+	{
+		"time": 7.7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1747.8378,
+			"temperature": 25.02827
+		}
+	},
+	{
+		"time": 7.75,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1747.9431,
+			"temperature": 25.0286
+		}
+	},
+	{
+		"time": 7.8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.0433,
+			"temperature": 25.028932
+		}
+	},
+	{
+		"time": 7.85,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.1386,
+			"temperature": 25.029264
+		}
+	},
+	{
+		"time": 7.9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.2292,
+			"temperature": 25.029599
+		}
+	},
+	{
+		"time": 7.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.3155,
+			"temperature": 25.029934
+		}
+	},
+	{
+		"time": 8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.3975,
+			"temperature": 25.030271
+		}
+	},
+	{
+		"time": 8.05,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.4755,
+			"temperature": 25.030609
+		}
+	},
+	{
+		"time": 8.1,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.5498,
+			"temperature": 25.030949
+		}
+	},
+	{
+		"time": 8.15,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.6204,
+			"temperature": 25.03129
+		}
+	},
+	{
+		"time": 8.2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.6876,
+			"temperature": 25.031632
+		}
+	},
+	{
+		"time": 8.25,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.7515,
+			"temperature": 25.031976
+		}
+	},
+	{
+		"time": 8.3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.8123,
+			"temperature": 25.032321
+		}
+	},
+	{
+		"time": 8.35,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.8701,
+			"temperature": 25.032667
+		}
+	},
+	{
+		"time": 8.4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.9251,
+			"temperature": 25.033015
+		}
+	},
+	{
+		"time": 8.45,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1748.9774,
+			"temperature": 25.033364
+		}
+	},
+	{
+		"time": 8.5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.0272,
+			"temperature": 25.033715
+		}
+	},
+	{
+		"time": 8.55,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.0746,
+			"temperature": 25.034066
+		}
+	},
+	{
+		"time": 8.6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.1196,
+			"temperature": 25.034419
+		}
+	},
+	{
+		"time": 8.65,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.1625,
+			"temperature": 25.034773
+		}
+	},
+	{
+		"time": 8.7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.2033,
+			"temperature": 25.035129
+		}
+	},
+	{
+		"time": 8.75,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.2421,
+			"temperature": 25.035486
+		}
+	},
+	{
+		"time": 8.8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.279,
+			"temperature": 25.035844
+		}
+	},
+	{
+		"time": 8.85,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.3141,
+			"temperature": 25.036203
+		}
+	},
+	{
+		"time": 8.9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.3475,
+			"temperature": 25.036564
+		}
+	},
+	{
+		"time": 8.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.3792,
+			"temperature": 25.036926
+		}
+	},
+	{
+		"time": 9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.4095,
+			"temperature": 25.037289
+		}
+	},
+	{
+		"time": 9.05,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.4382,
+			"temperature": 25.037653
+		}
+	},
+	{
+		"time": 9.1,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.4655,
+			"temperature": 25.038019
+		}
+	},
+	{
+		"time": 9.15,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.4916,
+			"temperature": 25.038385
+		}
+	},
+	{
+		"time": 9.2,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.5163,
+			"temperature": 25.038753
+		}
+	},
+	{
+		"time": 9.25,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.5399,
+			"temperature": 25.039123
+		}
+	},
+	{
+		"time": 9.3,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.5623,
+			"temperature": 25.039493
+		}
+	},
+	{
+		"time": 9.35,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.5836,
+			"temperature": 25.039865
+		}
+	},
+	{
+		"time": 9.4,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.6038,
+			"temperature": 25.040237
+		}
+	},
+	{
+		"time": 9.45,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.6231,
+			"temperature": 25.040611
+		}
+	},
+	{
+		"time": 9.5,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.6415,
+			"temperature": 25.040987
+		}
+	},
+	{
+		"time": 9.55,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.6589,
+			"temperature": 25.041363
+		}
+	},
+	{
+		"time": 9.6,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.6755,
+			"temperature": 25.04174
+		}
+	},
+	{
+		"time": 9.65,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.6913,
+			"temperature": 25.042119
+		}
+	},
+	{
+		"time": 9.7,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.7063,
+			"temperature": 25.042499
+		}
+	},
+	{
+		"time": 9.75,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.7206,
+			"temperature": 25.04288
+		}
+	},
+	{
+		"time": 9.8,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.7342,
+			"temperature": 25.043262
+		}
+	},
+	{
+		"time": 9.85,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.7472,
+			"temperature": 25.043645
+		}
+	},
+	{
+		"time": 9.9,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.7595,
+			"temperature": 25.04403
+		}
+	},
+	{
+		"time": 9.95,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.7712,
+			"temperature": 25.044415
+		}
+	},
+	{
+		"time": 10,
+		"values": {
+			"lightIntensity": 50,
+			"rpm": 1749.7823,
+			"temperature": 25.044802
+		}
+	}
+]

@@ -1,0 +1,11 @@
+{
+    "name": "michal_podrouzek/babylonjs",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michal Podrouzek",
+            "email": "podrouzekmichal@gmail.com"
+        }
+    ],
+    "require": {}
+}
