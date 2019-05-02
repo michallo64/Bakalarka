@@ -152,6 +152,9 @@ window.addEventListener("DOMContentLoaded", function () {
             called = 0;
         }
 
+
+        
+
         if (fanCover1 && fanCover2 && dissapeard) {
             fanCover1.material.alpha -= 0.01;
             fanCover2.material.alpha -= 0.01;
