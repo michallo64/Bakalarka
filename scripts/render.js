@@ -8,6 +8,10 @@ function real_data() {
     if (source != null) {
         source.close();
     }
+    if ($("#simulate").hasClass('btn-success')) {
+        $("#simulate").removeClass('btn-success').addClass('btn-primary');
+    }
+    $("#realData").removeClass('btn-primary').addClass('btn-success');
     if (typeof (EventSource) != "undefined") {
         source = new EventSource("demo_see.php");
         source.onmessage = function (event) {
@@ -27,6 +31,12 @@ function real_data() {
 function stop() {
     if (source != null) {
         source.close();
+        if ($("#realData").hasClass('btn-success')) {
+            $("#realData").removeClass('btn-success').addClass('btn-primary');
+        }
+        if ($("#simulate").hasClass('btn-success')) {
+            $("#simulate").removeClass('btn-success').addClass('btn-primary');
+        }
     }
 }
 
@@ -34,6 +44,10 @@ function simulate() {
     if (source != null) {
         source.close();
     }
+    if ($("#realData").hasClass('btn-success')) {
+        $("#realData").removeClass('btn-success').addClass('btn-primary');
+    }
+    $("#simulate").removeClass('btn-primary').addClass('btn-success');
     if (typeof (EventSource) != "undefined") {
         led_input = document.getElementById("LED_Intensity").value;
         rpm_input = document.getElementById("RPM").value;

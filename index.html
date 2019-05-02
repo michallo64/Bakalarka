@@ -44,39 +44,53 @@
             <h1 class="mt-5">
                 <small>TOS 1A</small>
             </h1>
-            <div class="col-lg-6 col-md-6 col-md-offset-left-0 col-sm-6" id="r-i">
+            <div class="col-md-offset-left-0" id="r-i">
                 <div class="menu-regulator-input" id="regulator-input">
-                    <div id="input-RPM-class"><span class="label label-default">RPM</span><input type="number"
-                                                                                                 class="form-control"
-                                                                                                 id="RPM" name="RPM"
-                                                                                                 value="80" step="0.1">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div id="input-RPM-class"><span class="label label-default">RPM</span><input type="number"
+                                                                                                         class="form-control"
+                                                                                                         id="RPM"
+                                                                                                         name="RPM"
+                                                                                                         value="80"
+                                                                                                         step="0.1">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div id="input-LED_Intens-class"><span
+                                    class="label label-default">LED Intensity</span><input
+                                    type="number"
+                                    class="form-control"
+                                    id="LED_Intensity" name="LED_Intensity"
+                                    value="1" step="0.1">
+                            </div>
+                        </div>
                     </div>
-                    <div id="input-LED_Intens-class"><span class="label label-default">LED Intensity</span><input
-                            type="number"
-                            class="form-control"
-                            id="LED_Intensity" name="LED_Intensity"
-                            value="1" step="0.1">
+
+                    <br>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <button class="btn btn-block btn-primary" value="Simulate" id="simulate"
+                                    onclick="simulate()">Simulovať dáta
+                            </button>
+                        </div>
+                        <div class="col-md-6">
+                            <button class="btn btn-block btn-primary" value="Real Data" id='realData'
+                                    onclick="real_data()">Reálne dáta
+                            </button>
+                        </div>
                     </div>
                     <br>
-                    <div>
-                        <button class="btn btn-block btn-danger" value="Simulate" onclick="simulate()">Simulovať dáta</button>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <button class="btn btn-block btn-danger" value="Stop" onclick="stop()">Zastaviť akciu
+                            </button>
+                        </div>
+                        <div class="col-md-6">
+                            <button class="btn btn-block btn-secondary" onclick="dissapeard = 1">Odstrániť kryt
+                            </button>
+                        </div>
                     </div>
-                    <br>
-                    <div>
-                        <button class="btn btn-block btn-danger" value="Real Data" onclick="real_data()">Reálne dáta
-                        </button>
-                    </div>
-                    <br>
-                    <div>
-                        <button class="btn btn-block btn-danger" value="Stop" onclick="stop()">Zastaviť akciu
-                        </button>
-                    </div>
-                    <br>
-                    <div>
-                        <button class="btn btn-block btn-danger" value="Real Data" onclick="dissapeard = 1">Odstrániť kryt
-                        </button>
-                    </div>
-                    <br>
                 </div>
             </div>
         </div>
