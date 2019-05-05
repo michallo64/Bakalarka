@@ -7,7 +7,7 @@ var led_intensity = diffuse_light.value;
 var source;
 
 if (typeof (EventSource) != "undefined") {
-    source = new EventSource("demo_see.php");
+    source = new EventSource("realDataSSE.php");
     source.onmessage = function (event) {
         range = parseInt(event.data);
         console.log("RPM: " + range + " Rychlost podelena 1100: " + range / 1100);
