@@ -1,23 +1,27 @@
 var range = 0;
 var called = 1;
 var dissapeard = 0;
-var led_intensity = 1;
+var led_intensity = 0;
 var source = null;
 
 function real_data() {
     if (source != null) {
         source.close();
     }
+    if ($("#simulate").hasClass('btn-success')) {
+        $("#simulate").removeClass('btn-success').addClass('btn-primary');
+    }
+    $("#realData").removeClass('btn-primary').addClass('btn-success');
     if (typeof (EventSource) != "undefined") {
-        source = new EventSource("demo_see.php");
+        source = new EventSource("realDataSSE.php");
         source.onmessage = function (event) {
             range = parseInt(JSON.parse(event.data)["fan"]);
-            led_intensity = parseFloat(JSON.parse(event.data)["led"]) * 2;
+            led_intensity = parseFloat(JSON.parse(event.data)["led"]);
             if (isNaN(range)) {
                 range = 0;
-                led_intensity = 1;
+                led_intensity = 0;
             }
-            //console.log("RPM: " + range + " Rychlost podelena 1100: " + range / 1100+" LED INTENSITY: "+led_intensity );
+            console.log("Range: "+range+" LED: "+led_intensity);
         };
     } else {
         console.log("not working");
@@ -27,6 +31,14 @@ function real_data() {
 function stop() {
     if (source != null) {
         source.close();
+        if ($("#realData").hasClass('btn-success')) {
+            $("#realData").removeClass('btn-success').addClass('btn-primary');
+        }
+        if ($("#simulate").hasClass('btn-success')) {
+            $("#simulate").removeClass('btn-success').addClass('btn-primary');
+        }
+        range = 0;
+        led_intensity = 0;
     }
 }
 
@@ -34,6 +46,10 @@ function simulate() {
     if (source != null) {
         source.close();
     }
+    if ($("#realData").hasClass('btn-success')) {
+        $("#realData").removeClass('btn-success').addClass('btn-primary');
+    }
+    $("#simulate").removeClass('btn-primary').addClass('btn-success');
     if (typeof (EventSource) != "undefined") {
         led_input = document.getElementById("LED_Intensity").value;
         rpm_input = document.getElementById("RPM").value;
@@ -44,7 +60,7 @@ function simulate() {
             led_intensity = parseFloat(JSON.parse(event.data)["led"]) / 150;
             if (isNaN(range)) {
                 range = 0;
-                led_intensity = 1;
+                led_intensity = 0;
             }
             console.log("RPM: " + range + " Rychlost podelena 1100: " + range / 1100+" LED INTENSITY: "+led_intensity );
         };
@@ -82,17 +98,12 @@ window.addEventListener("DOMContentLoaded", function () {
         light.parent = camera;
         light.intensity = 1.0;
 
-        BABYLON.SceneLoader.ImportMesh("", "", "model/vrch.babylon", scene, function (newMeshes) {
-            newMeshes.forEach(function (element) {
-                console.log(element.name);
-            });
-        });
+        BABYLON.SceneLoader.ImportMesh("", "", "model/vrch.babylon", scene, "");
 
         return scene;
     };
 
     var scene = createScene();
-
     engine.runRenderLoop(function () {
 
         var fanCover1 = scene.getMeshByID("fan_cover1");
@@ -149,7 +160,8 @@ window.addEventListener("DOMContentLoaded", function () {
             fan.rotation.y += range / 1100;
         }
         if (inside_led) {
-            inside_led.material.diffuseColor = new BABYLON.Color3(1 - led_intensity, 1 - led_intensity, 0);
+            //led_intensity = 0 -> žltá, ak 1 čierna -> Color3(1,1,0) žltá 000 čierna
+            inside_led.material.diffuseColor = new BABYLON.Color3(led_intensity, led_intensity, 0);
         }
 
         scene.render();
